@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Montserrat:wght@200;300;400;500;600;700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+
+@media only screen and (max-width: 600px) {
+  html{
+    font-size: 65%;
+  }
+}
